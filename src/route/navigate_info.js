@@ -1,0 +1,29 @@
+export default[{
+    id:1,
+    path:'/entry/home',
+    icon:'../icons/home.svg',
+    text:'首页',
+    iconPath:'../icons/home.svg',
+    active:'../icons/home_active.svg',
+},{
+    id:2,
+    path:'/entry/bills',
+    icon:'../icons/bills.svg',
+    text:'订单',
+    iconPath:'../icons/bills.svg',
+    active:'../icons/bills_active.svg'
+},{
+    id:3,
+    path:'/entry/chat',
+    icon:'../icons/chat.svg',
+    text:'聊天',
+    iconPath:'../icons/chat.svg',
+    active:'../icons/chat_active.svg'
+},{
+    id:4,
+    path:'/entry/my',
+    icon:'../icons/my.svg',
+    text:'我的',
+    iconPath:'../icons/my.svg',
+    active:'../icons/my_active.svg'
+}]
