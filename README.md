@@ -2,5 +2,5 @@
 vue3前台项目
 
 ```
-
-``bash
+先安装依赖 npm install
+运行 npm run serve
